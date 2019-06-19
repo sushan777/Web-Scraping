@@ -1,0 +1,2 @@
+Requires gekodriver for scraping data from mozzila firefox.
+Requires cromedriver for Google Crome.
